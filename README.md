@@ -1,1 +1,2 @@
-# testing-new-repo
+# Git Learning
+Git demo practices for Dibimbing platform.
